@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="compose-window-windows">
+    <output-path>$PROJECT_DIR$/modules/compose-window/build/libs</output-path>
+    <root id="archive" name="compose-window-windows.jar">
+      <element id="module-output" name="Window.compose-window.windowsMain" />
+    </root>
+  </artifact>
+</component>
